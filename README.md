@@ -3,22 +3,22 @@
 
 ### About The Stakepool
 
-Ticker: LYDIA
-Name: Lydia Pool
-Pledge: 150,000 ADA
-Fees: 340 ADA per epoch _minimum_ fee 
-Pool Margin: 1.5%
-ID: 95eb8ea6bd4ce4d44f27d969d6b6e58e7c24e85f999e1b513fc309f8
+Ticker: LYDIA  
+Name: Lydia Pool  
+Pledge: 150,000 ADA  
+Fees: 340 ADA per epoch _minimum_ fee   
+Pool Margin: 1.5%  
+ID: 95eb8ea6bd4ce4d44f27d969d6b6e58e7c24e85f999e1b513fc309f8  
 
-The block producing cardano node is run on a powerful bare metal server with:
-32GB RAM
-AMD Ryzen 3 3200G QuadCore Processor
-4TB of storage 
+The block producing cardano node is run on a powerful bare metal server with:  
+32GB RAM  
+AMD Ryzen 3 3200G QuadCore Processor  
+4TB of storage  
 
-The relays live on the cloud with the following specifications:
-4 GB RAM
-2vCPUs
-4 TB transfer
+The relays live on the cloud with the following specifications:  
+4 GB RAM  
+2vCPUs  
+4 TB transfer  
 
 ### About The Person Behind The Stakepool
 
