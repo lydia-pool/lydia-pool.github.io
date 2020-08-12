@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Cardano Lydia Stakepool
 description: Here you can find all the details about the Lydia Stakepool
+logo: ./KingKroisosHeads.png
