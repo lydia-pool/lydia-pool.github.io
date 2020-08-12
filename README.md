@@ -26,7 +26,7 @@ I am a data scientist working in Amsterdam, NL. Originally, I am from the lands 
 
 Before data science, I was working on understanding cultures and human cooperation from a complexity science point of view at the University of Irvine, California. I hold a PhD in Mathematical Behavioral Sciences. My studies were based on complex adaptive systems and as a result, I spent [many summers](https://wiki.santafe.edu/index.php/Bahattin_Tolga_Oztan) doing research with [my advisor](https://www.santafe.edu/people/profile/douglas-r-white) at the Santa Fe Institute. 
 
-The relationship between complex systems and cryptocurrencies are quite strong but that brings us to...
+The relationship between complex systems and cryptocurrencies is quite strong but that brings us to...
 
 
 ### THE MISSION
@@ -44,3 +44,12 @@ Complex Adaptive Systems is the study of systems where parts that behave based o
 The Cardano Network is also a complex adaptive system. Each cardano node is run independently by a stakepool operator. These operators have their own goals and incentives. But when things align in the right way, the emergent system which is the total cardano network is a decentralized system. It is not controlled by any one person or institution yet it functions perfectly just like an organism. This is the revolutionary idea behind cryptocurrencies - the decentralization of money! I am happy to contribute to this goal by running the Lydia Stakepool. 
 
 If you are also aligned on this ideal, please consider delegating to Lydia Pool!
+
+
+Reach me @[Lydia Pool](https://twitter.com/LydiaPool1)!
+
+and let's keep the human element in all of this. Send me a DM with a book recommendation and I'll send you one in return!
+
+
+
+
